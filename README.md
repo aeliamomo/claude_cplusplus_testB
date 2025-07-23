@@ -45,7 +45,7 @@ The toolkit currently includes:
 
 ## Requirements
 
-### Step 1: C++17 or later  
+### Step 1: C++12 or later  
 ### Step 2: Install Eigen (header-only library)
 ```bash
 sudo apt install libeigen3-dev
